@@ -1,6 +1,7 @@
 .css-1xlro2s {
 margin:auto;
-margin-left: 0px !important;
+margin-left: -170px !important;
+margin-top: 25px;
 }
 .sidebar-icon{
     display: flex;
@@ -115,7 +116,7 @@ align-self: center;
     justify-content: flex-end;
     align-items: flex-end;
     align-self: center;
-    margin-left: 600px;
+    margin-left: 350px;
   }
 
 
@@ -129,9 +130,7 @@ align-self: center;
     .mob-res-block{
         display: block;
     }
-    .end-icons{
-        margin-left: 300px;
-    }
+
     .input-column-all-sm{
         display: flex;
         justify-content:space-around;
